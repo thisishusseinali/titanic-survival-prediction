@@ -10,6 +10,8 @@ RMS Titanic was the largest ship afloat at the time she entered service and the 
 The first-class accommodation was designed to be the pinnacle of comfort and luxury, with a gymnasium, swimming pool, libraries, high-class restaurants, and opulent cabins. A high-powered radiotelegraph transmitter was available for sending passenger "marconigrams" and for the ship's operational use.[7] Titanic had advanced safety features, such as watertight compartments and remotely activated watertight doors, contributing to its reputation as "unsinkable".
 
 Titanic was equipped with 16 lifeboat davits, each capable of lowering three lifeboats, for a total of 48 boats; she carried only 20 lifeboats, four of which were collapsible and proved hard to launch while she was sinking.[8] Together, the 20 lifeboats could hold 1,178 people—about half the number of passengers on board, and one third of the number of passengers the ship could have carried at full capacity (consistent with the maritime safety regulations of the era). When the ship sank, many of the lifeboats that had been lowered were only about half full.</p>
+## Data Science Life-Cycle :
+
 #
 ![](https://github.com/thisishusseinali/titanic-survival-prediction/blob/main/footer.png)
 
