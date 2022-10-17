@@ -1,5 +1,4 @@
-#
-![](https://github.com/thisishusseinali/titanic-survival-prediction/blob/main/header.png)
+
 #
 ## Overview :
 <p>
