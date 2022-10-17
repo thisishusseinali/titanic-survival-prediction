@@ -14,5 +14,5 @@ Titanic was equipped with 16 lifeboat davits, each capable of lowering three lif
 ## Data Science Life-Cycle :
 1) Understanding Business Problem
 2) Data Collection
-3) Data Preparation
+
 
