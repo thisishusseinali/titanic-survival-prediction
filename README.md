@@ -16,6 +16,4 @@ Titanic was equipped with 16 lifeboat davits, each capable of lowering three lif
 2) Data Collection
 3) Data Preparation
 4) Data Modeling
-5) Model Deployment
-#
 
