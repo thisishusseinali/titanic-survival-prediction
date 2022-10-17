@@ -18,6 +18,4 @@ Titanic was equipped with 16 lifeboat davits, each capable of lowering three lif
 4) Data Modeling
 5) Model Deployment
 #
-![](https://github.com/thisishusseinali/titanic-survival-prediction/blob/main/footer.png)
-
 
