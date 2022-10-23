@@ -4,7 +4,7 @@
 ## Overview :
 <p>
 RMS Titanic was a British passenger liner, operated by the White Star Line, which sank in the North Atlantic Ocean on 15 April 1912 after striking an iceberg during her maiden voyage from Southampton, UK, to New York City, United States. 
-Of the estimated 2,224 passengers and crew aboard, more than 1,500 died, making it the deadliest sinking of a single ship up to that time. It remains the deadliest peacetime sinking of a superliner or cruise ship. The disaster drew public attention, provided foundational material for the disaster film genre, and has inspired many artistic works.
+Of ner or cruise ship. The disaster drew public attention, provided foundational material for the disaster film genre, and has inspired many artistic works.
  Thomas Andrews, the chief naval architect of the shipyard, died in the disaster.
 Titanic was under the command of Captain Edward Smith,who went down with the ship. The ocean liner carried some of the wealthiest people in the world, as well as hundreds of emigrants from Great Britain and Ireland, Scandinavia, and elsewhere throughout Europe, who were seeking a new life in the United States and Canada.
 
