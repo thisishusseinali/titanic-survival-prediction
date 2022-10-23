@@ -1,8 +1,6 @@
 #
 ![](https://github.com/thisishusseinali/titanic-survival-prediction/blob/main/header.png)
-#
-## Overview :
-<p>
+
 RMS Titanic was a British passenger liner, operated by the White Star Line, which sank in the North Atlantic Ocean on 15 April 1912 after striking an iceberg during her maiden voyage from Southampton, UK, to New York City, United States. 
 Of ner or cruise ship. The disaster drew public attention, provided foundational material for the disaster film genre, and has inspired many artistic works.
  Thomas Andrews, the chief naval architect of the shipyard, died in the disaster.
