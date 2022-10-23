@@ -1,6 +1,4 @@
 #
-![](https://github.com/thisishusseinali/titanic-survival-prediction/blob/main/header.png)
-
 RMS Titanic was a British passenger liner, operated by the White Star Line, which sank in the North Atlantic Ocean on 15 April 1912 after striking an iceberg during her  voyage from Southampton, UK, to New York City, United States. 
 Of ner or cruise ship. The disaster drew public attention, provided foundational material for the disaster film genre, and has inspired many artistic works.naval architect of the shipyard, died in the disaster.
 Tih the ship. The oceaf emigrants from Great Britain and Ireland, Scandinavia, and elsewhere throughout Europe, who were seeking a new life in the United Sta
